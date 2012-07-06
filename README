@@ -1,1 +1,35 @@
-Will be added soon
+  					README File for roboProjekt
+==What is roboInventur ?==
+roboProjekt (internally known as aeProjectCreator) is a Mediawiki Extension that gives you an easy way to create projects.
+==How to Install ?==
+===Requirements===
+* roboInventur requiers Mediawiki Version 1.7 and PHP Version 5
+===Installation Process===
+* Create a folder <path_to_wiki>/extensions/Projekt
+* Put the files from git into this folder
+* Add ''require_once('$IP/extensions/Projekt/roboProjekt.php')'' to your LocalSettings.php
+* Done, you should now be able to navigate to ''Special:RoboProjekt''.
+==What to do==
+
+* coming soon...
+
+==License==
+GNU General Public License V.2
+
+Copyright (C) 2012  sQu4rks
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+>>>>>>> 107a6daebda9081f3941f43c4e0604159bd23d12
+
